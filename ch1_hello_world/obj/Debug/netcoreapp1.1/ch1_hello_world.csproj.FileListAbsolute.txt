@@ -1,0 +1,8 @@
+C:\Users\justin\RiderProjects\GrayHatCSharp\ch1_hello_world\bin\Debug\netcoreapp1.1\ch1_hello_world.deps.json
+C:\Users\justin\RiderProjects\GrayHatCSharp\ch1_hello_world\bin\Debug\netcoreapp1.1\ch1_hello_world.runtimeconfig.json
+C:\Users\justin\RiderProjects\GrayHatCSharp\ch1_hello_world\bin\Debug\netcoreapp1.1\ch1_hello_world.runtimeconfig.dev.json
+C:\Users\justin\RiderProjects\GrayHatCSharp\ch1_hello_world\bin\Debug\netcoreapp1.1\ch1_hello_world.dll
+C:\Users\justin\RiderProjects\GrayHatCSharp\ch1_hello_world\bin\Debug\netcoreapp1.1\ch1_hello_world.pdb
+C:\Users\justin\RiderProjects\GrayHatCSharp\ch1_hello_world\obj\Debug\netcoreapp1.1\ch1_hello_world.AssemblyInfo.cs
+C:\Users\justin\RiderProjects\GrayHatCSharp\ch1_hello_world\obj\Debug\netcoreapp1.1\ch1_hello_world.dll
+C:\Users\justin\RiderProjects\GrayHatCSharp\ch1_hello_world\obj\Debug\netcoreapp1.1\ch1_hello_world.pdb

@@ -1,0 +1,35 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\justin\\RiderProjects\\GrayHatCSharp\\ch1_hello_world\\ch1_hello_world.csproj",
+    "projectName": "ch1_hello_world",
+    "projectPath": "C:\\Users\\justin\\RiderProjects\\GrayHatCSharp\\ch1_hello_world\\ch1_hello_world.csproj",
+    "outputPath": "C:\\Users\\justin\\RiderProjects\\GrayHatCSharp\\ch1_hello_world\\obj\\",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp1.1"
+    ],
+    "frameworks": {
+      "netcoreapp1.1": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp1.1": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[1.1.2, )",
+          "autoReferenced": true
+        }
+      }
+    }
+  }
+}

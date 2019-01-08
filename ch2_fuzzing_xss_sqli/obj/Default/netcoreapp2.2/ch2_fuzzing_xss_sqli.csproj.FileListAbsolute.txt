@@ -1,0 +1,11 @@
+C:\Users\justin\RiderProjects\GrayHatCSharp\ch2_fuzzing_xss_sqli\bin\Default\netcoreapp2.2\ch2_fuzzing_xss_sqli.deps.json
+C:\Users\justin\RiderProjects\GrayHatCSharp\ch2_fuzzing_xss_sqli\bin\Default\netcoreapp2.2\ch2_fuzzing_xss_sqli.runtimeconfig.json
+C:\Users\justin\RiderProjects\GrayHatCSharp\ch2_fuzzing_xss_sqli\bin\Default\netcoreapp2.2\ch2_fuzzing_xss_sqli.runtimeconfig.dev.json
+C:\Users\justin\RiderProjects\GrayHatCSharp\ch2_fuzzing_xss_sqli\bin\Default\netcoreapp2.2\ch2_fuzzing_xss_sqli.dll
+C:\Users\justin\RiderProjects\GrayHatCSharp\ch2_fuzzing_xss_sqli\bin\Default\netcoreapp2.2\ch2_fuzzing_xss_sqli.pdb
+C:\Users\justin\RiderProjects\GrayHatCSharp\ch2_fuzzing_xss_sqli\obj\Default\netcoreapp2.2\ch2_fuzzing_xss_sqli.csprojAssemblyReference.cache
+C:\Users\justin\RiderProjects\GrayHatCSharp\ch2_fuzzing_xss_sqli\obj\Default\netcoreapp2.2\ch2_fuzzing_xss_sqli.csproj.CoreCompileInputs.cache
+C:\Users\justin\RiderProjects\GrayHatCSharp\ch2_fuzzing_xss_sqli\obj\Default\netcoreapp2.2\ch2_fuzzing_xss_sqli.AssemblyInfoInputs.cache
+C:\Users\justin\RiderProjects\GrayHatCSharp\ch2_fuzzing_xss_sqli\obj\Default\netcoreapp2.2\ch2_fuzzing_xss_sqli.AssemblyInfo.cs
+C:\Users\justin\RiderProjects\GrayHatCSharp\ch2_fuzzing_xss_sqli\obj\Default\netcoreapp2.2\ch2_fuzzing_xss_sqli.dll
+C:\Users\justin\RiderProjects\GrayHatCSharp\ch2_fuzzing_xss_sqli\obj\Default\netcoreapp2.2\ch2_fuzzing_xss_sqli.pdb

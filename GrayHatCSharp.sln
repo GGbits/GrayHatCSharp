@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ch1_hello_world", "ch1_hello_world\ch1_hello_world.csproj", "{CA4A865B-E83B-47AC-8B21-606BE2615073}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ch2_fuzzing_xss_sqli", "ch2_fuzzing_xss_sqli\ch2_fuzzing_xss_sqli.csproj", "{C684AFCB-B346-4646-B6B5-C40D8D9D2ACA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ch2_PostFuzzer", "ch2_PostFuzzer\ch2_PostFuzzer.csproj", "{56D52BBA-83D5-402B-9156-67E50519D459}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA4A865B-E83B-47AC-8B21-606BE2615073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA4A865B-E83B-47AC-8B21-606BE2615073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA4A865B-E83B-47AC-8B21-606BE2615073}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA4A865B-E83B-47AC-8B21-606BE2615073}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C684AFCB-B346-4646-B6B5-C40D8D9D2ACA}.Debug|Any CPU.ActiveCfg = Default|Any CPU
+		{C684AFCB-B346-4646-B6B5-C40D8D9D2ACA}.Debug|Any CPU.Build.0 = Default|Any CPU
+		{56D52BBA-83D5-402B-9156-67E50519D459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56D52BBA-83D5-402B-9156-67E50519D459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56D52BBA-83D5-402B-9156-67E50519D459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56D52BBA-83D5-402B-9156-67E50519D459}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
